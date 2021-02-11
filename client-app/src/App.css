@@ -6,3 +6,16 @@
   left: 0;
   background-color: #fff;
 }
+
+.topic-form {
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
+.topic-form > * {
+  margin-right: 10px;
+}
+
+.table-buttons > * {
+  margin-right: 5px;
+}

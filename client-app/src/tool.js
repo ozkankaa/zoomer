@@ -1,6 +1,8 @@
 const testTool = {
+  API_BASE_URL: "http://localhost:3001/",
   API_KEY: "",
   API_SECRET: "",
+  USER_ID: "",
 
   b64EncodeUnicode: function (str) {
     // first we use encodeURIComponent to get percent-encoded UTF-8,
